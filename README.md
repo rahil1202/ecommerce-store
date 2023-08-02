@@ -1,48 +1,55 @@
-# E-commerce Shopping Website with FakeStore Api
+# 🛍️ Fully Responsive E-Commerce Shopping Website
 
-This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
+![image](https://github.com/rahil1202/online_store/assets/104057403/26aad8ae-2fe7-4098-a08e-f1639650529f)
+![image](https://github.com/rahil1202/online_store/assets/104057403/1401c19a-65cf-4aed-9e90-cd3c2d9121f6)
 
-## Table of Contents
+## 🌐 Live Demo
 
-- [Demo](#demo)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Installation and Setup](#installation-and-setup)
-
-## Demo
-
-You can see a live demo of this project [here]().
-
-## Tech Stack
-
-- **React**: A JavaScript library for building user interfaces
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
-- **Fake Store API**: A free API for testing and prototyping e-commerce websites
-- **Context API**: A React API for managing global state in an application.
+Check out the live demo of the E-Commerce Shopping Website ➡️ [Live Demo](https://onine-store-rahil1202.net;ofy.app)
 
 
-## Features
+Welcome to the GitHub repository of my fully responsive E-Commerce Shopping Website built using React and Tailwind CSS. This project is a modern and user-friendly e-commerce platform that fetches product data from the Fake Store API and utilizes the Context API for state management.
 
-- `Home page` displays the `featured products`, which are fetched from the **Fake Store API**. Each product card displays the product image, name, and price.
-- `Product Details` page showing a detailed view of the selected product, including an image, title, description and price.
-- `Cart` page displaying the added products, quantities and total price. The user can **add or remove products** from the cart, and the cart will update accordingly.
-- Fully `responsive design` that can adapt to different screen sizes and devices.
+## 🚀 Features
+
+- **Product Catalog**: Displayed an extensive catalog of products fetched from the Fake Store API, showcasing product images, descriptions, and prices.
+
+- **Product Details**: Implemented a detailed product page, allowing users to view in-depth information and specifications for each product.
+
+- **Shopping Cart**: Created a shopping cart functionality to enable users to add and remove products and calculate the total cost.
+
+- **User Authentication**: Implemented user authentication for secure login and registration (optional).
+
+## 🛠️ Technologies Used
+
+- **React**: For building the user interface and managing components efficiently.
+- **Tailwind CSS**: For styling the website with a mobile-first approach and responsive design.
+- **Fake Store API**: For fetching product data to populate the e-commerce website.
+- **Context API**: For global state management and managing the shopping cart.
 
 
-## Screenshots
+## 🛠️ Installation
 
-Below are some screenshots of the website.
+1. Clone the repository:
+   ```
+   git clone https://github.com/rahil1202/online_store.git
+   ```
 
-![Home Page](/src/img/home-page.png)
+2. Navigate to the project directory:
+   ```
+   cd online_store
+   ```
 
-![Cart/Sidebar](/src/img/cart.png)
+3. Install the dependencies:
+   ```
+   npm install
+   ```
 
-## Installation and Setup
+4. Start the development server:
+   ```
+   npm start
+   ```
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory and run `npm install` to install all dependencies.
-3. Run `npm start` to start the application.
-4. Open `http://localhost:3000` in your browser to view the website.
+5. Open your web browser and navigate to `http://localhost:3000` to see the E-Commerce Shopping Website running.
 
 
