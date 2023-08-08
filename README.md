@@ -1,6 +1,5 @@
 # 🛍️ Fully Responsive E-Commerce Shopping Website
 
-![image](https://github.com/rahil1202/online_store/assets/104057403/26aad8ae-2fe7-4098-a08e-f1639650529f)
 
 ## 🌐 Live Demo
 
