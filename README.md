@@ -3,7 +3,7 @@
 
 ## 🌐 Live Demo
 
-Check out the live demo of the E-Commerce Shopping Website ➡️ [Live Demo](https://onine-store-rahil1202.net;ofy.app)
+Check out the live demo of the E-Commerce Shopping Website ➡️ [Live Demo](https://ecommerce-shop-react-app.vercel.app/)
 
 
 Welcome to the GitHub repository of my fully responsive E-Commerce Shopping Website built using React and Tailwind CSS. This project is a modern and user-friendly e-commerce platform that fetches product data from the Fake Store API and utilizes the Context API for state management.
